@@ -8,7 +8,3 @@
   <div class="column">
     <img src="img/Screenshot (226).png" alt="Forest" style="width:40%">
   </div>
-  <div class="column">
-    <img src="img/Screenshot (226).png" alt="Mountains" style="width:100%">
-  </div>
-</div>
