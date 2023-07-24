@@ -1,4 +1,3 @@
-Steps : https://blog.chatengine.io/fullstack-chat/nodejs-reactjs
 
 Project Setup for backend
 ```````````````
