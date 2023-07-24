@@ -12,3 +12,11 @@
     <img src="img/Screenshot (226).png" alt="Mountains" style="width:100%">
   </div>
 </div>
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
